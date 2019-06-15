@@ -2,8 +2,8 @@
 ## Herramienta HELP DESK
 
 En primer lugar estos son los requisitos necesarios para la instalación de C-DESK.
-![](imagenes/6.png)
-![](imagenes/7.png)
+![](imagenes/6.PNG)
+![](imagenes/7.PNG)
 
 Vaya a su administrador de IIS.
 

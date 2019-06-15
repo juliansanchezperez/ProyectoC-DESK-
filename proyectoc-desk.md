@@ -2,32 +2,32 @@
 ## Herramienta HELP DESK
 
 En primer lugar estos son los requisitos necesarios para la instalación de C-DESK.
-![](imagenes/6.png)
-![](imagenes/7.png)
+![](ProyectoC-DESK/imagenes/6.png)
+![](ProyectoC-DESK/imagenes/7.png)
 
 Vaya a su administrador de IIS.
 
 Seleccione su sitio web para implementar la aplicación.
 
 Seleccione “deploy” y “Import application”.
-![](imagenes/8.png)
+![](ProyectoC-DESK/imagenes/8.png)
 
 El asistente de "Import Application Package" se abre y muestra el cuadro de diálogo "Seleccionar el paquete".
 
 En el cuadro "Package path", busque y seleccione su archivo zip desde la ubicación donde descargó
 
 El cuadro de diálogo "Select the Package" se parece a la siguiente imagen
-![](imagenes/9.png)
+![](ProyectoC-DESK/imagenes/9.png)
 
 Haga clic en "Next".
 
 El cuadro de diálogo "Select the Contents of the Package" se muestra como se muestra en la siguiente imagen:
-![](imagenes/10.png)
+![](ProyectoC-DESK/imagenes/10.png)
 
 Haga clic en "Next".
 
 El cuadro de diálogo "Enter Application Package Information" se muestra como se muestra en la siguiente imagen:
-![](imagenes/11.png)
+![](ProyectoC-DESK/imagenes/11.png)
 
 Mientras "Web Deploy" instala el paquete, se muestra el cuadro de diálogo "Installation Progress and Summary". El cuadro de diálogo muestra una barra de progreso durante el proceso de instalación. Cuando se completa el proceso, el cuadro de diálogo muestra un registro de lo que se hizo, como se muestra en la siguiente imagen:
 ![](ProyectoC-DESK/imagenes/12.png)
